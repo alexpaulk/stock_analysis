@@ -9,6 +9,7 @@ import requests
 import pandas as pd
 
 companies = []
+#change
 demo = 'f6b851b2b5524849ee4409f8f0b7289e'
 
 marketcap = str(1000000000)
